@@ -9,5 +9,6 @@
 int main()
 {
 	printf("hello world\n");
+	printf("cannot update refs\n");
 	return 0;
 }
